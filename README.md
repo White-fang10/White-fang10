@@ -1,0 +1,217 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranesh%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Embedded%20Systems%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Pranesh+V+%F0%9F%91%8B;Full+Stack+%7C+AI+%7C+Embedded+Systems;Patent+Holder+%7C+Problem+Solver;Building+Things+That+Actually+Matter" alt="Typing SVG" />
+</div>
+
+<br/>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class PraneshV:
+    def __init__(self):
+        self.name           = "Pranesh V"
+        self.location       = "Karur, Tamil Nadu, India"
+        self.degree         = "B.Tech in Information Technology (2023–2027)"
+        self.college        = "V.S.B Engineering College"
+        self.cgpa           = 7.6
+
+        self.stack = [
+            "Python", "Java", "JavaScript",
+            "React.js", "Node.js", "Express.js",
+            "OpenCV", "LLM / RAG", "ESP32"
+        ]
+
+        self.currently_learning = [
+            "Advanced RAG Architectures",
+            "MLOps & Model Deployment",
+            "System Design at Scale"
+        ]
+
+        self.fun_fact = (
+            "I filed 2 patents before finishing my degree. 🚀"
+        )
+
+    def motto(self):
+        return "Build. Break. Learn. Repeat."
+
+me = PraneshV()
+print(me.motto())
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Web**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI / ML & CV**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG%20%2F%20LLM-000000?style=flat-square&logo=openai&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Databases & Embedded**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/White-fang10">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=White-fang10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/White-fang10">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=White-fang10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=White-fang10&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=White-fang10&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=White-fang10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Full Stack Development Intern — Software Company &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote / India</b></summary>
+
+<br/>
+
+> **Stack:** `React.js` `Node.js` `Express.js` `REST APIs` `Postman` `Git` `Agile`
+
+- Developed and deployed web application modules using modern frontend and backend technologies, gaining end-to-end lifecycle exposure.
+- Designed and integrated RESTful APIs in collaboration with cross-functional teams, ensuring responsive UI/UX across devices.
+- Participated in code reviews, technical documentation, and iterative feature development following Agile sprint cycles.
+- Contributed to third-party service integrations and helped standardize API response structures across modules.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:-------:|:-----:|:----------:|
+| [**🦅 Hawk AI**](https://github.com/White-fang10) | Python · OpenCV · Deep Learning · CNNs | Automated attendance via facial recognition through existing smart board cameras — zero extra hardware; real-time detection under varied lighting; integrated with institutional DB to eliminate manual roll calls |
+| [**🏰 House**](https://github.com/White-fang10) | React · Node.js · WebSockets · Judge0 API · CSS Animations | Harry Potter–themed competitive coding platform; real-time multi-language code execution engine; live leaderboards, contest timers, and difficulty tiers; fully animated lore-driven UI |
+| [**📈 Investigator**](https://github.com/White-fang10) | React · Node.js · Live Market APIs · AI · Chart.js | Multi-asset portfolio tracker with real-time prices & historical charts; AI-powered investment mentor for portfolio rebalancing & risk assessment; live investment simulator for hypothetical scenario modelling |
+| [**🧠 ClarifAI**](https://github.com/White-fang10) | RAG · Vector DB (Endee) · Python · LLM · Full Stack | Production-ready RAG assistant for hackathons & conferences; semantic search over event documents with full source attribution; hallucination-free Q&A; coordinator upload portal + participant query interface |
+| [**⚡ Project Shield**](https://github.com/White-fang10) | ESP32 · ML · LoRa · GSM · Cloud Dashboard | IoT-based LT line breakage detection system; ML anomaly detection on sensor data; automated GSM/LoRa alerts + remote circuit isolation; cloud-hosted real-time monitoring dashboard for rural grid safety |
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🎖️ | Achievement | Details |
+|:--:|:-----------:|:-------:|
+| 🛸 | **Indian Patent Filed** | *Space Debris Management System (2024)* — Orbital tracking + predictive analytics to identify, catalogue & mitigate space debris risk to active satellites |
+| 🤖 | **Indian Patent Filed** | *Hawk AI — Automated Attendance System (2025)* — Deep learning facial recognition via smart board cameras; eliminates manual roll calls |
+| 📜 | **NPTEL Certifications** | Java Programming & Big Data Analysis — industry-relevant tech proficiency |
+| 📊 | **Board Certification** | Data Science for Beginners — foundational data analysis & visualization workflows |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree / Standard | Institution | Year | Score |
+|:-----------------:|:-----------:|:----:|:-----:|
+| B.Tech — Information Technology | V.S.B Engineering College, Karur, Tamil Nadu | 2023–2027 | CGPA: 7.6 |
+| 12th Standard (HSC) | Veveaham Matric Hr Sec School, Dharapuram | 2022–2023 | 78.3% |
+| 10th Standard (SSLC) | Greenfield International School | 2020–2021 | 68% |
+
+</div>
+
+---
+
+## 🧱 Currently Learning
+
+```
+🧱 RAG Architectures    → Advanced chunking · Re-ranking · Hybrid search
+⚙️  MLOps               → Model serving · CI/CD for ML · Monitoring
+🏗️  System Design        → Distributed systems · Caching · Load balancing
+🔐 Cloud & DevOps       → Docker · CI/CD pipelines · Cloud deployment
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranesh-v-0451b0314)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/White-fang10)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:esppranesh@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=White-fang10&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
