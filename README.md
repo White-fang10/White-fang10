@@ -1,16 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranesh%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Embedded%20Systems%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranesh%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Embedded%20Systems%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Pranesh+V+%F0%9F%91%8B;Full+Stack+%7C+AI+%7C+Embedded+Systems;Patent+Holder+%7C+Problem+Solver;Building+Things+That+Actually+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1100&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Pranesh+%F0%9F%91%8B;Patent+Holder+%C3%97+2+%F0%9F%9A%80;Full+Stack+%7C+AI%2FRAG+%7C+Embedded+Systems;Turning+%22what+if%22+into+%22it+works%22;Currently+debugging+life+%F0%9F%90%9B" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🛰️_Patents-2_Filed-bf91f3?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-70a5fd?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📍_Based_in-Tamil_Nadu,_India-38bdae?style=for-the-badge&labelColor=0d1117"/>
+</div>
+
+<div align="center">
+  <a href="https://pranesh-portfolio-psi.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-70a5fd?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+  <a href="https://leetcode.com/u/praneshvenkidusamy/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/>
+  </a>
 </div>
 
 <br/>
+
+<p align="center">
+  <a href="https://github.com/White-fang10">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,opencv,arduino,git,linux,mysql&theme=dark&perline=10" />
+  </a>
+</p>
+
+<p align="center">
+  <em>↑ click any icon to jump straight to my profile</em>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=70a5fd&height=60&section=header&text=%24%20whoami&fontSize=22&fontColor=c9d1d9&fontAlignY=70&animation=fadeIn" width="40%"/>
+</div>
+
+<table>
+<tr>
+<td width="60%">
 
 ```python
 class PraneshV:
@@ -44,7 +75,35 @@ me = PraneshV()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top">
+
+```
+╔══════════════════════════╗
+║ root@pranesh:~$ ./run.sh  ║
+╠══════════════════════════╣
+║ [✓] Loading patents... 2  ║
+║ [✓] Compiling RAG stack   ║
+║ [✓] Booting ESP32 fleet   ║
+║ [✓] Mounting /curiosity   ║
+║ [██████████████████] 100%║
+║ > status: shipping 🚀     ║
+╚══════════════════════════╝
+```
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=1800&pause=600&color=38BDAE&center=true&vCenter=true&width=320&height=80&lines=compiling+dreams...;deploying+ideas...;%23patented+%C3%97+2" alt="mini typing"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily quote"/>
+</div>
 
 ---
 
@@ -123,7 +182,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=White-fang10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=White-fang10&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ---
@@ -208,10 +267,31 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranesh-v-0451b0314)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/White-fang10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://pranesh-portfolio-psi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:esppranesh@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=White-fang10&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random dev joke"/>
+</div>
+
+<details>
+<summary>🔧 Want the contribution snake or 3D calendar too?</summary>
+
+<br/>
+
+Both are real, working widgets — they just need a one-time GitHub Action in your `White-fang10/White-fang10` profile repo before they'll render (until then, the image link is just blank). Once set up, they auto-refresh daily with no further work needed.
+
+- **Contribution Snake** — [`Platane/snk`](https://github.com/Platane/snk) action; generates an SVG of a snake eating your commit graph
+- **3D Contribution Calendar** — [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) action; renders your commit history as a 3D isometric grid
+
+Happy to write the exact workflow YAML for either if you want them added back in.
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
