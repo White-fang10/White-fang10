@@ -171,6 +171,22 @@ print(me.motto())
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/White-fang10/White-fang10/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+</div>
+
+---
+
+## 🗓️ 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/White-fang10/White-fang10/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
@@ -279,19 +295,5 @@ print(me.motto())
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random dev joke"/>
 </div>
-
-<details>
-<summary>🔧 Want the contribution snake or 3D calendar too?</summary>
-
-<br/>
-
-Both are real, working widgets — they just need a one-time GitHub Action in your `White-fang10/White-fang10` profile repo before they'll render (until then, the image link is just blank). Once set up, they auto-refresh daily with no further work needed.
-
-- **Contribution Snake** — [`Platane/snk`](https://github.com/Platane/snk) action; generates an SVG of a snake eating your commit graph
-- **3D Contribution Calendar** — [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) action; renders your commit history as a 3D isometric grid
-
-Happy to write the exact workflow YAML for either if you want them added back in.
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
