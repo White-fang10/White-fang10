@@ -215,7 +215,8 @@ Computational model leveraging orbital tracking algorithms and predictive analyt
 Loading greatness .. ████████████████████  100%
 ```
 
-*"Simplicity is the ultimate sophistication." — Leonardo da Vinci*
+*“Self-education is, I firmly believe, the only kind of education there is.”
+― Isaac Asimov*
 
 <br/>
 
